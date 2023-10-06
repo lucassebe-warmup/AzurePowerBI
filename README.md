@@ -20,7 +20,8 @@
 ![image](https://github.com/lucassebe-warmup/AzurePowerBI/blob/main/assets/Captura%20de%20tela%202023-10-06%20132936.png)
 
 3. Aperte F12. Em "Network" filtre por "odata" e copie a URL da requisição que aparecer.
-A URL que você irá utilizar deve ser semelhante à: https://analytics.dev.azure.com/{organização}/{id}/_odata/v4.0-preview/TestResultsDaily? **[...]**
+A URL que você irá utilizar deve ser semelhante à: https://analytics.dev.azure.com/{organização}/{id}/_odata/v4.0-preview/TestResultsDaily?[...]
+
 **Caso as requisições não apareçam atualize a página.
 
 ![image](https://github.com/lucassebe-warmup/AzurePowerBI/blob/main/assets/Captura%20de%20tela%202023-10-06%20133108.png)
