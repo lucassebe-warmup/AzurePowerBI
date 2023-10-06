@@ -1,6 +1,33 @@
 # Integração de Dados do Azure DevOps Test Plan com Power BI
 
 ℹ️ Este guia irá te ajudar a integrar os dados do Azure DevOps Test Plan com o Power BI utilizando consultas OData. 
+Ele está dividído entre duas sessões: Benefícios e Passos.
+ 
+## Benefícios
+A união do Azure com o Power BI é uma grande vantagem para melhorar a qualidade. Isso traz
+benefícios importantes:
+
+### Dados Mais Fáceis de Entender:
+Todos na equipe podem ver os resultados dos testes em um só lugar, o que torna a informação mais
+clara.
+
+### Monitoramento Personalizado:
+Podemos ajustar os gráficos e informações para ver os resultados dos testes como quisermos, o que
+ajuda na análise.
+
+### Histórico e Comparação:
+Mantemos um registro de como os testes evoluem ao longo do tempo, o que ajuda a comparar ciclos
+de testes diferentes.
+
+### Decisões Baseadas em Dados:
+Com informações claras no Power BI, podemos decidir quando lançar novas versões, priorizar
+correções e usar recursos de teste de forma eficaz.
+
+### Avaliação da Qualidade:
+Podemos ver se a qualidade está melhorando ou piorando após os testes.
+
+Em resumo, a integração do Power BI com o Azure torna mais fácil entender a qualidade, tomar
+decisões informadas e melhorar constantemente nossos processos de teste.
 
 ## Passos
 
